@@ -1,0 +1,2298 @@
+.background,
+.background * {
+  box-sizing: border-box;
+}
+.background {
+  background: #ffffff;
+  height: 8208px;
+  position: relative;
+}
+.background2 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  width: 1920px;
+  height: 741px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 0px;
+}
+.overlay {
+  background: rgba(245, 239, 235, 0.58);
+  width: 783px;
+  height: 377px;
+  position: absolute;
+  left: 221.25px;
+  top: 156.97px;
+}
+.recrutamento-inteligente-indeks {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 17px;
+  line-height: 18.7px;
+  font-weight: 400;
+  position: absolute;
+  left: 419.91px;
+  top: 184.69px;
+  width: 339.64px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.recrutamento-inteligente-indeks-span {
+  color: #212529;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 17px;
+  line-height: 18.7px;
+  font-weight: 400;
+}
+.recrutamento-inteligente-indeks-span2 {
+  color: #e74c3c;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 17px;
+  line-height: 18.7px;
+  font-weight: 700;
+}
+.heading-1 {
+  height: 132px;
+  position: absolute;
+  right: 958.09px;
+  left: 416.9100036621094px;
+  top: 213.75px;
+}
+.simplifique-suas-contrata-es {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 49px;
+  line-height: 66px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -3px;
+  width: 537.87px;
+  height: 138px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-6 {
+  height: 39.59px;
+  position: absolute;
+  right: 996.09px;
+  left: 416.9100036621094px;
+  top: 361.69px;
+}
+.e-tome-decis-es-mais-assertivas-na-hora-de-montar-sua-equipe {
+  color: #212529;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16.859375px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  width: 438.84px;
+  height: 42.79px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background-border {
+  background: rgba(230, 80, 58, 1);
+  border-radius: 34px;
+  border-style: solid;
+  border-color: rgba(230, 80, 58, 1);
+  border-width: 18px;
+  width: 224px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - 537.62px);
+  top: 427.7px;
+}
+.link {
+  width: 188px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - 94px);
+  top: calc(50% - 28px);
+}
+.container {
+  border-radius: 4px;
+  width: 188px;
+  height: 29px;
+  position: absolute;
+  left: calc(50% - 94px);
+  top: calc(50% - 14.5px);
+}
+.conhecer-agora {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 83.13px);
+  top: calc(50% - 11.5px);
+  width: 166.56px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._11989206-png {
+  height: 69.45px;
+  position: absolute;
+  right: 1012.87px;
+  left: 682.1300048828125px;
+  top: calc(50% - -48.81px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.background3 {
+  background: #ffffff;
+  width: 1920px;
+  height: 491px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 741px;
+}
+.container2 {
+  width: 1140px;
+  position: absolute;
+  left: calc(50% - 570px);
+  bottom: 0px;
+  top: 0px;
+}
+.heading-2 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 550.98px;
+  top: 89.73px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.background-shadow {
+  background: #ffffff;
+  width: 857px;
+  height: 314px;
+  position: absolute;
+  left: 144.91px;
+  top: 85.92px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+.computer-02-gif {
+  height: 165.08px;
+  position: absolute;
+  right: 737.86px;
+  left: 175.13999938964844px;
+  top: calc(50% - 89.97px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-62 {
+  height: 46px;
+  position: absolute;
+  right: 319.64px;
+  left: 418.3599853515625px;
+  top: 119.58px;
+}
+.descubra-a-solu-o-de-potencializa-o-de {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 380.13px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.talentos-e-forme-uma-equipe-imbat-vel {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 22px;
+  width: 356.67px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.preencher-uma-vaga-nunca-foi-t-o-f-cil-intuitivo-e-assertivo-com-a-indeks-voc-ter-uma-ferramenta-ideal-para-definir-o-perfil-mais-assertivo-para-cada-posi-o-dispon-vel-garantindo-que-voc-encontre-os-candidatos-perfeitos-para-a-sua-empresa {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16.46875px;
+  line-height: 23.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 416.83px;
+  top: 178.7px;
+  width: 547.06px;
+  height: 92.39px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.com-uma-interface-descomplicada-voc-poder-gerenciar-cada-etapa-do-processo-de-contrata-o-de-forma-simples-e-eficiente-nada-de-perder-tempo-e-dinheiro-com-tarefas-burocr-ticas-e-complexas {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16.46875px;
+  line-height: 23.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 416.83px;
+  top: 297.69px;
+  width: 548.64px;
+  height: 68.59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 416.83px;
+  top: 368.08px;
+  width: 3.43px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-22 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 552.97px;
+  top: 453.73px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.background4 {
+  background: #ffffff;
+  width: 1920px;
+  height: 1342px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 1232px;
+}
+.background-shadow2 {
+  background: #ffffff;
+  width: 690px;
+  height: 425px;
+  position: absolute;
+  left: 429.94px;
+  top: 601.88px;
+  box-shadow: 0px 0px 9px 6px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+.essa-a-sua-chance-de {
+  color: #e67e22;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 717.84px;
+  top: 644.67px;
+  width: 267.63px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-23 {
+  height: 142.78px;
+  position: absolute;
+  right: 45.61px;
+  left: 716.3900146484375px;
+  top: 676.64px;
+}
+.pessoa-certa-para-o {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 40.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+  width: 342.41px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.os-benef-cios-do-recrutamento-inteligente-indeks-v-o-desde-a-otimiza-o-do-processo-de-contrata-o-a-redu-o-do-turnover-voc-contratar-com-agilidade-reduzindo-o-tempo-gasto-na-busca-e-sele-o-de-candidatos-e-aumentar-a-precis-o-na-escolha-do-contratado-evitando-contrata-es-equivocadas-que-podem-custar-caro-no-futuro {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 717.36px;
+  top: 833.69px;
+  width: 383.75px;
+  height: 154.34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontal-divider {
+  border-style: dashed;
+  border-color: rgba(226, 226, 226, 1);
+  border-width: 0px 0px 2px 0px;
+  height: 2px;
+  position: absolute;
+  right: 44.58px;
+  left: 43.41999816894531px;
+  top: 221.86px;
+}
+.heading-24 {
+  width: 60px;
+  height: 90px;
+  position: absolute;
+  left: 405.89px;
+  top: 202.63px;
+  transform: translate(0px, -90px);
+  overflow: visible;
+}
+.heading-63 {
+  height: 46px;
+  position: absolute;
+  right: 587.61px;
+  left: 324.3900146484375px;
+  top: 242.7px;
+}
+.redu-o-do-custo-de {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 94.95px);
+  top: -1px;
+  width: 190.24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contrata-o {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 57.03px);
+  top: 22px;
+  width: 114.44px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.o-custo-financeiro-de-um-processo-de-contrata-o-no-brasil-pode-chegar-a-10-mil-reais-por-vaga-aumente-a-produtividade-dos-seus-colaboradores-sendo-mais-assertivo-nas-contrata-es-e-inovando-a-forma-como-o-rh-lida-com-o-processo-de-contrata-o {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 243.89px);
+  top: 310.56px;
+  width: 224.76px;
+  height: 155.16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-25 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 426.89px;
+  top: 233.63px;
+  transform: translate(0px, -21px);
+  overflow: visible;
+}
+.heading-26 {
+  width: 60px;
+  height: 90px;
+  position: absolute;
+  left: 680.47px;
+  top: 202.63px;
+  transform: translate(0px, -90px);
+  overflow: visible;
+}
+.heading-6-engajamento-imediato {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -40px);
+  top: 243.64px;
+  width: 206.28px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.com-a-indeks-poss-vel-determinar-o-perfil-comportamental-exato-conforme-a-necessidade-da-empresa-relacionada-ao-momento-da-equipe-e-exig-ncias-do-cargo {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.5625px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -54.28px);
+  top: 311.72px;
+  width: 177.53px;
+  height: 135.56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-27 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 701.47px;
+  top: 232.72px;
+  transform: translate(0px, -21px);
+  overflow: visible;
+}
+.heading-28 {
+  width: 60px;
+  height: 90px;
+  position: absolute;
+  left: 950.97px;
+  top: 203.72px;
+  transform: translate(0px, -90px);
+  overflow: visible;
+}
+.heading-6-preven-o-de-turnover {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -308.61px);
+  top: 244.66px;
+  width: 210.14px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.se-contratar-caro-demitir-bem-mais-caro-e-os-custos-disso-n-o-s-o-apenas-financeiros-porque-o-processo-de-contrata-o-vai-reiniciar-e-impactar-a-produ-o-com-a-baixa-na-equipe {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.34375px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -315.5px);
+  top: 315.66px;
+  width: 196.11px;
+  height: 135.56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-29 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 971.89px;
+  top: 232.72px;
+  transform: translate(0px, -21px);
+  overflow: visible;
+}
+.heading-210 {
+  width: 60px;
+  height: 90px;
+  position: absolute;
+  left: 126.39px;
+  top: 203.72px;
+  transform: translate(0px, -90px);
+  overflow: visible;
+}
+.heading-64 {
+  height: 46px;
+  position: absolute;
+  right: 858.47px;
+  left: 39.529998779296875px;
+  top: 244.72px;
+}
+.contrata-o-r-pida-e {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 98.2px);
+  top: -1px;
+  width: 196.74px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.assertiva {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 43.51px);
+  top: 22px;
+  width: 87.36px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.empresas-levam-em-m-dia-42-dias-para-preencher-uma-vaga-com-nossa-pr-sele-o-automatizada-poss-vel-reduzir-os-dias-e-o-rh-n-o-perde-tempo-entrevistando-candidatos-desqualificados {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.78125px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 504.56px);
+  top: 311.67px;
+  width: 201.2px;
+  height: 135.56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-211 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 152.36px;
+  top: 233.88px;
+  transform: translate(0px, -21px);
+  overflow: visible;
+}
+.iframe {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.83);
+  border-width: 4px;
+  width: 679px;
+  height: 381.94px;
+  position: absolute;
+  left: 18.22px;
+  top: 898.05px;
+  overflow: hidden;
+}
+.body {
+  background: #000000;
+  width: 671px;
+  height: 374px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+}
+.you-tube-video-player {
+  background: #000000;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.image {
+  width: 671px;
+  height: 374px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.button-play-svg {
+  width: 68px;
+  height: 48px;
+  position: absolute;
+  left: 301.5px;
+  top: 163px;
+  overflow: visible;
+}
+.image2 {
+  width: 100%;
+  height: 99px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  top: 0px;
+  object-fit: cover;
+}
+.link-watch-on-www-youtube-com {
+  opacity: 0.9;
+  width: 110px;
+  height: 48px;
+  position: absolute;
+  right: 16px;
+  bottom: 5px;
+}
+.svg {
+  height: auto;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 11px;
+  top: 11px;
+  overflow: visible;
+}
+.container3 {
+  position: absolute;
+  right: 148px;
+  left: 12px;
+  bottom: 313.81px;
+  top: 0px;
+  overflow: hidden;
+}
+.link2 {
+  height: 23.39px;
+  position: absolute;
+  right: 0px;
+  left: 50px;
+  top: 21px;
+  overflow: hidden;
+}
+.indeks-ats {
+  color: #eeeeee;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 23.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  width: 99.04px;
+  height: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-menu-share {
+  opacity: 0.9;
+  width: 48px;
+  height: 60.19px;
+  position: absolute;
+  left: 533px;
+  top: 0px;
+  overflow: hidden;
+}
+.svg2 {
+  height: auto;
+  position: absolute;
+  right: 6px;
+  left: 6px;
+  bottom: 18.19px;
+  top: 6px;
+  overflow: visible;
+}
+.container4 {
+  height: 18.19px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 42px;
+  overflow: hidden;
+}
+.share {
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 18.2px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 18.06px);
+  top: 1px;
+  width: 36.42px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-menu-playlist {
+  opacity: 0.9;
+  width: 48px;
+  height: 60.19px;
+  position: absolute;
+  left: 601px;
+  top: 0px;
+  overflow: hidden;
+}
+.svg3 {
+  height: auto;
+  position: absolute;
+  right: 6px;
+  left: 6px;
+  bottom: 18.19px;
+  top: 6px;
+  overflow: visible;
+}
+._1-1 {
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 18.2px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 10.74px);
+  top: calc(50% - -12.91px);
+  width: 21.78px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container5 {
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 7px;
+  top: 7px;
+  overflow: hidden;
+}
+.container6 {
+  border-radius: 25px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.link-photo-image-of-indeks {
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  object-fit: cover;
+}
+.background5 {
+  background: #ffffff;
+  width: 1920px;
+  height: 775px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 2574px;
+}
+.heading-212 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 550.98px;
+  top: 89.88px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.heading-213 {
+  height: 95.19px;
+  position: absolute;
+  right: 717.53px;
+  left: 44.470001220703125px;
+  top: 125px;
+}
+.intelig-ncia-artificial {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 366.03px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.precisa {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 46.59px;
+  width: 136.4px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.com-a-ordena-o-dos-candidatos-feita-pelo-rpa-da-indeks-voc-vai-encontrar-rapidamente-os-candidatos-de-maior-afinidade-com-as-vagas-de-acordo-com-os-seus-crit-rios-de-sele-o {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.625px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 43.42px;
+  top: 225.8px;
+  width: 356.95px;
+  height: 87.17px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background6 {
+  background: #ffffff;
+  width: 272px;
+  height: 253px;
+  position: absolute;
+  left: 499.97px;
+  top: 113.86px;
+}
+._11983249-png {
+  height: 49px;
+  position: absolute;
+  right: 567.56px;
+  left: 523.4400024414062px;
+  top: calc(50% - 252.89px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-6-cargo-ou-func-o {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 528.94px;
+  top: 202.64px;
+  width: 144.97px;
+  height: 19.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.defina-a-vaga-de-acordo-com-as-exig-ncias-do-cargo-a-ser-preenchido-e-a-necessidade-espec-fica-do-momento-em-que-a-empresa-est {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.453125px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 527.44px;
+  top: 233.64px;
+  width: 200.78px;
+  height: 96.38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vertical-divider {
+  border-style: dashed;
+  border-color: rgba(226, 226, 226, 1);
+  border-width: 0px 0px 0px 2px;
+  width: 2px;
+  position: absolute;
+  left: 781.94px;
+  bottom: 460.34px;
+  top: 160.66000366210938px;
+}
+.background7 {
+  background: #ffffff;
+  width: 272px;
+  height: 253px;
+  position: absolute;
+  left: 825.98px;
+  top: 113.86px;
+}
+._11983379-png {
+  height: 49px;
+  position: absolute;
+  right: 241.59px;
+  left: 849.4099731445312px;
+  top: calc(50% - 252.89px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-6-vaga-dispon-vel {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 849.89px;
+  top: 204.64px;
+  width: 132.03px;
+  height: 19.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.defina-o-perfil-comportamental-que-mais-se-adequa-a-necessidade-da-empresa-e-do-cargo-e-fa-a-uma-sele-o-r-pida-automatizada-e-com-intelig-ncia-artificial {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 849.89px;
+  top: 240.63px;
+  width: 202.15px;
+  height: 115.96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background8 {
+  background: #ffffff;
+  width: 272px;
+  height: 253px;
+  position: absolute;
+  left: 499.97px;
+  top: 385.92px;
+}
+._11988405-png {
+  height: 49px;
+  position: absolute;
+  right: 567.56px;
+  left: 523.4400024414062px;
+  top: calc(50% - -19.25px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-6-sele-o-do-candidato {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 526.95px;
+  top: 474.7px;
+  width: 176.86px;
+  height: 19.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.descubra-em-tempo-recorde-quais-s-o-os-perfis-de-candidatos-que-melhor-se-enquadram-necessidade-do-cargo-e-da-empresa-considerando-experi-ncia-e-comportamento {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 526.95px;
+  top: 512.72px;
+  width: 191.09px;
+  height: 135.56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vertical-divider2 {
+  border-style: dashed;
+  border-color: rgba(226, 226, 226, 1);
+  border-width: 0px 0px 0px 2px;
+  width: 2px;
+  position: absolute;
+  left: 783.95px;
+  bottom: 178.31px;
+  top: 442.69000244140625px;
+}
+.background9 {
+  background: #ffffff;
+  width: 272px;
+  height: 253px;
+  position: absolute;
+  left: 823.94px;
+  top: 383.83px;
+}
+._11983309-png {
+  height: 49px;
+  position: absolute;
+  right: 243.59px;
+  left: 847.4099731445312px;
+  top: calc(50% - -17.14px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-6-equipe-engajada {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 850.92px;
+  top: 470.7px;
+  width: 134.82px;
+  height: 19.8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.quando-a-pessoa-certa-est-no-cargo-certo-as-equipes-engajam-mais-r-pido-o-processo-de-adapta-o-curto-e-suave-fazendo-a-empresa-acelerar-a-sua-curva-de-crescimento {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 850.92px;
+  top: 510.67px;
+  width: 202.53px;
+  height: 135.56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-214 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 550.98px;
+  top: 788.88px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.background10 {
+  background: rgba(230, 130, 58, 1);
+  width: 1920px;
+  height: 961px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 3349px;
+}
+.background-shadow3 {
+  background: #ffffff;
+  width: 691px;
+  height: 539px;
+  position: absolute;
+  left: 44.95px;
+  top: 124.83px;
+  box-shadow: 0px 0px 9px 6px rgba(201, 67, 47, 1);
+  overflow: hidden;
+}
+.perfil-ideal-para-o-cargo-certo {
+  color: #e67e22;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 17.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 79.77px;
+  top: 168.63px;
+  width: 303.74px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading-215 {
+  height: 76px;
+  position: absolute;
+  right: 640.64px;
+  left: 79.36000061035156px;
+  top: 194.64px;
+}
+.contrata-se-por-experi-ncia {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 389.94px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.demite-se-por-comportamento {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 38px;
+  width: 418.19px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.no-contexto-da-gest-o-organizacional-as-empresas-estabelecem-estruturas-formais-e-atribuem-cargos-hier-rquicos-aos-funcion-rios-a-efic-cia-da-contrata-o-depende-da-aceita-o-dos-funcion-rios-em-rela-o-s-normas-e-pap-is-organizacionais-um-processo-que-pode-se-estender-por-meses-isso-refor-a-a-ideia-de-que-as-contrata-es-s-o-baseadas-em-experi-ncia-enquanto-demiss-es-resultam-de-comportamentos-inadequados-a-abordagem-de-conhecer-o-perfil-comportamental-necess-rio-para-um-cargo-atrav-s-do-rpr-e-selecionar-profissionais-com-perfis-comportamentais-adequados-usando-o-rpa-visa-aumentar-a-precis-o-na-escolha-de-profissionais-buscando-uma-contrata-o-baseada-em-experi-ncia-e-comportamento {
+  color: #999999;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.75px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 78.38px;
+  top: 286.59px;
+  width: 387.37px;
+  height: 355.86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-background-shadow {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  width: 606px;
+  height: 654px;
+  position: absolute;
+  left: 510.95px;
+  top: 232.73px;
+  box-shadow: 8px 8px 10px 3px rgba(201, 67, 47, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.background11 {
+  background: rgba(250, 249, 246, 1);
+  width: 1920px;
+  height: 598px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 4310px;
+}
+.heading-2-banco-de-dados-poderoso {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 223.58px);
+  top: 88.83px;
+  width: 500.45px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.uma-das-formas-de-mitigar-os-custos-com-o-processo-de-contrata-o-ter-um-banco-de-dados-com-candidatos-pr-selecionados-al-m-de-poder-fazer-mudan-as-de-cargo-e-fun-o-atrav-s-da-avalia-o-do-perfil-dos-colaboradores-obtendo-assim-maior-assertividade-na-decis-o-de-abrir-ou-n-o-vaga-para-contrata-o {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 406.52px);
+  top: 146.88px;
+  width: 813.19px;
+  height: 64.78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background-shadow4 {
+  background: rgba(255, 255, 255, 1);
+  width: 304px;
+  height: 220px;
+  position: absolute;
+  left: 44.95px;
+  top: 260.91px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+._4476046-png {
+  height: 83.88px;
+  position: absolute;
+  right: 899.08px;
+  left: 152.9199981689453px;
+  top: calc(50% - 7.28px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-65 {
+  height: 39.59px;
+  position: absolute;
+  right: 822.31px;
+  left: 75.69000244140625px;
+  top: 405.72px;
+}
+.chamada-interna-para-vaga-aberta-ou-expans-o {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 113.99px);
+  top: -2px;
+  width: 228.17px;
+  height: 41.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background-shadow5 {
+  background: rgba(255, 255, 255, 1);
+  width: 304px;
+  height: 220px;
+  position: absolute;
+  left: 417.97px;
+  top: 259.94px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+._4476048-png {
+  height: 88px;
+  position: absolute;
+  right: 526.05px;
+  left: 525.9500122070312px;
+  top: calc(50% - 6.31px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-66 {
+  height: 59.39px;
+  position: absolute;
+  right: 449.06px;
+  left: 448.94000244140625px;
+  top: 403.69px;
+}
+.pr-sele-o-r-pida-e-segura-com-o-banco-de-dados-de-candidatos-contratados {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 112.14px);
+  top: -2px;
+  width: 224.46px;
+  height: 61.59px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background-shadow6 {
+  background: rgba(255, 255, 255, 1);
+  width: 304px;
+  height: 220px;
+  position: absolute;
+  left: 793.97px;
+  top: 259.94px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+._11988516-png {
+  height: 97px;
+  position: absolute;
+  right: 145.64px;
+  left: 897.3599853515625px;
+  top: calc(50% - 7.28px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-67 {
+  height: 59.39px;
+  position: absolute;
+  right: 58.12px;
+  left: 809.8800048828125px;
+  top: 402.7px;
+}
+.reorganiza-o-de-equipes-e-troca-de-fun-o-r-pida-com-n-vel-de-estresse-praticamente-zero {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 19.8px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 134.55px);
+  top: -2px;
+  width: 269.28px;
+  height: 61.6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background12 {
+  background: rgba(251, 251, 251, 1);
+  width: 1920px;
+  height: 545px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 4908px;
+}
+.heading-216 {
+  height: 225.94px;
+  position: absolute;
+  right: 621.09px;
+  left: 13.90999984741211px;
+  top: 72.64px;
+}
+.obtenha-agora-a-sua-conta {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 43.2px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 217.13px);
+  top: 100px;
+  width: 434.6px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.teste-gratuita-para-ter-acesso {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 43.2px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 242.11px);
+  top: 44.19px;
+  width: 484.59px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-uma-avalia-o-completa-da {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 43.2px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 234.16px);
+  top: 89.38px;
+  width: 468.68px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sua-equipe-e-30-dias-para {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 43.2px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 202.36px);
+  top: 134.56px;
+  width: 405.08px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.avaliar-novos-candidatos {
+  color: #e67e22;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 43.2px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 206.24px);
+  top: 179.75px;
+  width: 412.81px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background-border2 {
+  background: rgba(230, 80, 58, 1);
+  border-radius: 34px;
+  border-style: solid;
+  border-color: rgba(230, 80, 58, 1);
+  border-width: 18px;
+  width: 325px;
+  height: 77px;
+  position: absolute;
+  left: calc(50% - 470.56px);
+  top: 350.67px;
+}
+.link3 {
+  width: 289px;
+  height: 77px;
+  position: absolute;
+  left: calc(50% - 144.5px);
+  top: calc(50% - 38.5px);
+}
+.container7 {
+  border-radius: 4px;
+  width: 289px;
+  height: 29px;
+  position: absolute;
+  left: calc(50% - 144.5px);
+  top: calc(50% - 14.5px);
+}
+.obter-agora {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 63.91px);
+  top: calc(50% - 11.5px);
+  width: 136.2px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-background-shadow2 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  width: 585px;
+  height: 362px;
+  position: absolute;
+  left: 526.69px;
+  top: 69.67px;
+  box-shadow: 8px 8px 10px 3px rgba(230, 130, 58, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.background13 {
+  background: rgba(250, 249, 246, 1);
+  width: 1920px;
+  height: 938px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 5453px;
+}
+.heading-217 {
+  height: 95.19px;
+  position: absolute;
+  right: 268.53px;
+  left: 255.47000122070312px;
+  top: 54.73px;
+}
+.alto-desempenho-nos-potenciais {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 279.86px);
+  top: -1px;
+  width: 560.03px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.individuais-e-coletivos {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 191.05px);
+  top: 46.6px;
+  width: 382.44px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.n-o-adiantar-ter-o-melhor-t-cnico-com-o-pior-temperamento-al-m-da-compet-ncia-t-cnica-as-empresas-precisam-de-pessoas-com-o-temperamento-adequado-para-cada-cargo-e-fun-o-essas-pessoas-precisam-ser-flex-veis-e-saber-conviver-com-diferen-as {
+  color: #999999;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 348.36px);
+  top: 167.77px;
+  width: 691.81px;
+  height: 64.78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-2-por-isso-que-o-rpa-analisa-graficamente {
+  color: #e67e22;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 185.38px;
+  top: 289.66px;
+  width: 500.45px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon {
+  width: 20px;
+  height: 34px;
+  position: absolute;
+  left: 183.13px;
+  top: 374.17px;
+  transform: translate(0px, -34px);
+  overflow: visible;
+}
+.perfil-comportamental {
+  color: #212529;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 42.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 203.13px;
+  top: 341.17px;
+  width: 248.78px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon2 {
+  width: 25px;
+  height: 42.5px;
+  position: absolute;
+  left: 183.13px;
+  top: 420.17px;
+  transform: translate(0px, -42.5px);
+  overflow: visible;
+}
+.percep-o-do-ambiente-atual {
+  color: #212529;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 24.8046875px;
+  line-height: 42.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 208.13px;
+  top: 384.67px;
+  width: 324.78px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon3 {
+  width: 25px;
+  height: 42.5px;
+  position: absolute;
+  left: 183.13px;
+  top: 463.67px;
+  transform: translate(0px, -42.5px);
+  overflow: visible;
+}
+.padr-o-comportamental-atual {
+  color: #212529;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 42.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 208.13px;
+  top: 428.17px;
+  width: 332.12px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon4 {
+  width: 25px;
+  height: 42.5px;
+  position: absolute;
+  left: 183.13px;
+  top: 507.17px;
+  transform: translate(0px, -42.5px);
+  overflow: visible;
+}
+.n-vel-de-energia {
+  color: #212529;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 42.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 208.13px;
+  top: 469.67px;
+  width: 277.39px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon5 {
+  width: 25px;
+  height: 42.5px;
+  position: absolute;
+  left: 183.13px;
+  top: 550.67px;
+  transform: translate(0px, -42.5px);
+  overflow: visible;
+}
+.fontes-de-estresse {
+  color: #212529;
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 42.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 208.13px;
+  top: 515.17px;
+  width: 277.64px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-background {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  width: 498px;
+  height: 480px;
+  position: absolute;
+  left: 565.94px;
+  top: 358.67px;
+  object-fit: cover;
+}
+.background14 {
+  background: #ffffff;
+  width: 1920px;
+  height: 766px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 6391px;
+}
+.heading-218 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 550.98px;
+  top: 84.81px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.heading-2-mas-o-que-s-o-rpa-e-rpr {
+  color: #212529;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 240.72px);
+  top: 101.78px;
+  width: 476.73px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background-shadow7 {
+  background: rgba(255, 255, 255, 1);
+  width: 367px;
+  height: 490px;
+  position: absolute;
+  left: 165.95px;
+  top: 194.8px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+._11999927-png {
+  border-radius: 5px;
+  height: 220.36px;
+  position: absolute;
+  right: 681.14px;
+  left: 239.86000061035156px;
+  top: calc(50% - 158.14px);
+  box-shadow: 10px 8px 39px 3px rgba(162, 173, 184, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.o-rpa-uma-ferramenta-de-an-lise-de-perfil-comportamental-que-tem-como-base-um-m-todo-estat-stico-e-lingu-stico-de-pesquisa-por {
+  color: #999999;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 13.453125px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 375.08px);
+  top: 506.55px;
+  width: 309.09px;
+  height: 57.18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.o-rpa-uma-ferramenta-de-an-lise-de-perfil-comportamental-que-tem-como-base-um-m-todo-estat-stico-e-lingu-stico-de-pesquisa-por-span {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.453125px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.o-rpa-uma-ferramenta-de-an-lise-de-perfil-comportamental-que-tem-como-base-um-m-todo-estat-stico-e-lingu-stico-de-pesquisa-por-span2 {
+  color: #999999;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13.453125px;
+  line-height: 19.6px;
+  font-weight: 700;
+}
+.o-rpa-uma-ferramenta-de-an-lise-de-perfil-comportamental-que-tem-como-base-um-m-todo-estat-stico-e-lingu-stico-de-pesquisa-por-span3 {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.453125px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.meio-do-rpa-poss-vel-mapear-caracter-sticas-como-estilo-de-decis-o-a-capacidade-de-se-relacionar-com-outras-pessoas-o-ritmo-de-trabalho-e-a-aptid-o-para-lidar-com-detalhes-em-seu-ambiente-profissional {
+  color: #999999;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 13.78125px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 376.05px);
+  top: 565.33px;
+  width: 311.03px;
+  height: 96.37px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.meio-do-rpa-poss-vel-mapear-caracter-sticas-como-estilo-de-decis-o-a-capacidade-de-se-relacionar-com-outras-pessoas-o-ritmo-de-trabalho-e-a-aptid-o-para-lidar-com-detalhes-em-seu-ambiente-profissional-span {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.78125px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.meio-do-rpa-poss-vel-mapear-caracter-sticas-como-estilo-de-decis-o-a-capacidade-de-se-relacionar-com-outras-pessoas-o-ritmo-de-trabalho-e-a-aptid-o-para-lidar-com-detalhes-em-seu-ambiente-profissional-span2 {
+  color: #999999;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13.78125px;
+  line-height: 19.6px;
+  font-weight: 700;
+}
+.meio-do-rpa-poss-vel-mapear-caracter-sticas-como-estilo-de-decis-o-a-capacidade-de-se-relacionar-com-outras-pessoas-o-ritmo-de-trabalho-e-a-aptid-o-para-lidar-com-detalhes-em-seu-ambiente-profissional-span3 {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.78125px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.background-shadow8 {
+  background: rgba(255, 255, 255, 1);
+  width: 367px;
+  height: 490px;
+  position: absolute;
+  left: 650.94px;
+  top: 195.8px;
+  box-shadow: 0px 0px 11px 4px rgba(239, 235, 224, 1);
+  overflow: hidden;
+}
+._11999903-png {
+  border-radius: 5px;
+  height: 221.84px;
+  position: absolute;
+  right: 207.11px;
+  left: 735.8900146484375px;
+  top: calc(50% - 157.19px);
+  box-shadow: 10px 8px 39px 3px rgba(162, 173, 184, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.o-rpr-um-desdobramento-do-m-todo {
+  color: #999999;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -135.66px);
+  top: 508.58px;
+  width: 257.65px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.o-rpr-um-desdobramento-do-m-todo-span {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.o-rpr-um-desdobramento-do-m-todo-span2 {
+  color: #999999;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 700;
+}
+.o-rpr-um-desdobramento-do-m-todo-span3 {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.strong-rpa {
+  color: #999999;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -125px);
+  top: 528.17px;
+  width: 278.98px;
+  height: 96.38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.strong-rpa-span {
+  color: #999999;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 700;
+}
+.strong-rpa-span2 {
+  color: #999999;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.671875px;
+  line-height: 19.6px;
+  font-weight: 400;
+}
+.heading-219 {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 550.98px;
+  top: 775.8px;
+  transform: translate(0px, -60px);
+  overflow: visible;
+}
+.background15 {
+  background: rgba(230, 130, 58, 1);
+  width: 1920px;
+  height: 380px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 7157px;
+}
+.heading-220 {
+  height: 83.59px;
+  position: absolute;
+  right: 275.55px;
+  left: 275.45001220703125px;
+  top: 62.78px;
+}
+.n-o-basta-s-a-ats-tamb-m-precisa-do {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 263.22px);
+  top: 0px;
+  width: 536.72px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.perfil-comportamental2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 166.87px);
+  top: 45px;
+  width: 326.74px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.integrar-um-sistema-de-rastreamento-de-candidatos-com-an-lise-comportamental-a-chave-para-revolucionar-a-contrata-o-e-gest-o-de-equipes-ao-agilizar-a-triagem-de-candidatos-e {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.625px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 344.06px);
+  top: 176.8px;
+  width: 692.21px;
+  height: 42.39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.oferecer-insights-comportamentais-a-indeks-fornece-equipes-mais-engajadas-com-a-cultura-da-empresa-e-l-deres-capacitados-para-tomar-decis-es-assertivas {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 346.89px);
+  top: 249.58px;
+  width: 697.87px;
+  height: 42.39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.oferecer-insights-comportamentais-a-indeks-fornece-equipes-mais-engajadas-com-a-cultura-da-empresa-e-l-deres-capacitados-para-tomar-decis-es-assertivas-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+}
+.oferecer-insights-comportamentais-a-indeks-fornece-equipes-mais-engajadas-com-a-cultura-da-empresa-e-l-deres-capacitados-para-tomar-decis-es-assertivas-span2 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 700;
+}
+.oferecer-insights-comportamentais-a-indeks-fornece-equipes-mais-engajadas-com-a-cultura-da-empresa-e-l-deres-capacitados-para-tomar-decis-es-assertivas-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15.5px;
+  line-height: 22.4px;
+  font-weight: 400;
+}
+.background16 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  width: 1920px;
+  height: 508px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 7537px;
+}
+.heading-221 {
+  height: 190.38px;
+  position: absolute;
+  right: 452.06px;
+  left: 35.939998626708984px;
+  top: 59.8px;
+}
+.obtenha-agora-a-sua-conta-teste {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  width: 554.47px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gratuita-para-ter-acesso-a-uma {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 46.59px;
+  width: 526px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.avalia-o-completa-da-sua-equipe-e {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 94.18px;
+  width: 604.38px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._30-dias-para-avaliar-novos-candidatos {
+  color: #212529;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 45.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 141.78px;
+  width: 650.1px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.background-border3 {
+  background: rgba(230, 80, 58, 1);
+  border-radius: 34px;
+  border-style: solid;
+  border-color: rgba(230, 80, 58, 1);
+  border-width: 18px;
+  width: 325px;
+  height: 77px;
+  position: absolute;
+  left: calc(50% - 411.55px);
+  top: 316.83px;
+}
+.obter-agora2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 63.9px);
+  top: calc(50% - 11.5px);
+  width: 138.2px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background17 {
+  background: rgba(2, 2, 2, 1);
+  width: 1920px;
+  height: 163px;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 8045px;
+}
+.paragraph {
+  width: 1140px;
+  position: absolute;
+  left: calc(50% - 570px);
+  bottom: 0px;
+  top: 0px;
+}
+.copyright-2023-2024-dayse-de-paula {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.5625px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 435.44px;
+  top: 100.72px;
+  width: 267.81px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.e-mail-contato-indeksrpa-com-br {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13.5625px;
+  line-height: 19.6px;
+  font-weight: 400;
+  position: absolute;
+  left: 449.95px;
+  top: 61.48px;
+  width: 221.5px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.whatsapp-icon img {
+  width: 60px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.whatsapp-icon:hover img {
+  transform: scale(1.1);
+}
+a, button, input, select, h1, h2, h3, h4, h5, * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  background: none;
+  -webkit-font-smoothing: antialiased;
+}
+menu, ol, ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.contact-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 40px auto;
+}
+.contact-form h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+.contact-form input, .contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.contact-form button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.contact-form button:hover {
+  background-color: #0056b3;
+}
